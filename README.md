@@ -64,7 +64,7 @@ Predict whether a borrower will **default on a loan** based on financial and dem
 ## 📌 Observations & Conclusion
 - Model performance improved after feature engineering and tuning  
 - Tree-based models (Random Forest, XGBoost) outperform Logistic Regression  
-- ROC-AUC > 0.92 shows strong ability to distinguish between defaulters and non-defaulters  
+- ROC-AUC = 0.92 shows strong ability to distinguish between defaulters and non-defaulters  
 - Can assist lenders in **risk assessment and decision-making**
 
 
